@@ -12,9 +12,4 @@
     <!-- Status bar color. -->
     <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
   </style>
-
-  <style name="CustomTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-    <item name="contentInsetStart">0dp</item>
-    <item name="contentInsetEnd">0dp</item>
-  </style>
 </resources>

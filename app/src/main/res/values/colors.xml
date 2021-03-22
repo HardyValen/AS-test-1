@@ -13,6 +13,7 @@
   <color name="primary">#FFD60739</color>
   <color name="primary_variant">#FFF20841</color>
   <color name="primary_variant2">#FFFF4D78</color>
+  <color name="primary_variant_lighter">#18D60739</color>
   <color name="secondary">#FF742968</color>
   <color name="secondary_variant">#FFB23FA0</color>
   <color name="secondary_variant2">#FFFF5AE5</color>
